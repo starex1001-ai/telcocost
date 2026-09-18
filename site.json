@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "통신비노트",
+  "brand": "TELCOCOST",
+  "mark": "TE",
+  "worker": "telcocost",
+  "url": "https://telcocost.webnote-lab.workers.dev",
+  "description": "통신비노트의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "통신비노트, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "통신비노트의 정보와 실용 가이드를 정리합니다.",
+      "name": "통신비노트",
+      "slug": "telcocost"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/telcocost/issues"
+}
